@@ -2,10 +2,10 @@
 ExporterProgram.cs - Client
 TCPServer.cs - Server
 
-Requirements:
+# Requirements:
 Windows 10, Visual Studio Code (VSC), DotNet, Unity 2021.3.3f1
 
-Steps:
+# Steps:
 1. Install DotNet (https://dotnet.microsoft.com/en-us/download)
 2. Create a program in a folder through VSC terminal
 	- dotnet new console -o sample1
