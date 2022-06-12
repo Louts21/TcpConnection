@@ -1,7 +1,3 @@
-# Files:
-ExporterProgram.cs - Client
-TCPServer.cs - Server
-
 # Requirements:
 Windows 10, Visual Studio Code (VSC), DotNet, Unity 2021.3.3f1
 
